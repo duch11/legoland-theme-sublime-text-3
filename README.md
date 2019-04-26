@@ -1,4 +1,4 @@
-# legoland-theme-sublime-text-3
+# Lego-land-theme-sublime-text-3
 Inspired by the Dark Lemon Material theme for vscode, I made this syntax theme for sublime text 3.
 
 It has some changes as you might notice. 
@@ -17,6 +17,10 @@ My focus has been on:
 *  HTML
 *  CSS
 *  Others?
+
+## Installation
+put the file in your Themes folder in your packages folder (ctrl+shift+p -> browse packages)
+pick the theme with: (ctrl+shift+p -> select color theme -> Lego-land)
 
 ## Please let me know of any issues on this page.
 
