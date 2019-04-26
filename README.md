@@ -3,6 +3,10 @@ Inspired by the Dark Lemon Material theme for vscode, I made this syntax theme f
 
 It has some changes as you might notice. 
 
+My focus has been on:
+*  Bright colors
+*  Readability
+*  Fast readability (you know when you see a method, you know when you see a class etc)
 
 ## Fully Support
 *  Python
