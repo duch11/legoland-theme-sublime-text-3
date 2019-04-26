@@ -189,7 +189,7 @@ source.python meta.function.decorator.python entity.name.function.decorator.pyth
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9100</string>
+				<string>#2196F3</string>
 			</dict>
 		</dict>
 		<dict>
