@@ -39,7 +39,7 @@
 				<key>foreground</key>
 				<string>#06B500B5</string>
 				<key>fontStyle</key>
-				<string>      italic   </string>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,7 +241,7 @@ source.python meta.function.decorator.python entity.name.function.decorator.pyth
 				<key>foreground</key>
 				<string>#06B500</string>
 				<key>fontStyle</key>
-				<string> bold italic</string>
+				<string> bold    italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -307,6 +307,90 @@ punctuation.definition.arguments.begin.python</string>
 			<dict>
 				<key>foreground</key>
 				<string>#FFEB3B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS classes</string>
+			<key>scope</key>
+			<string>source.css meta.selector.css entity.other.attribute-name.id.css,
+source.css meta.selector.css entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold </string>
+				<key>foreground</key>
+				<string>#FFEB3B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS special</string>
+			<key>scope</key>
+			<string>source.css meta.selector.css entity.other.attribute-name.pseudo-element.css,
+source.css meta.property-list.css meta.property-value.css punctuation.terminator.rule.css,
+source.css meta.property-list.css punctuation.section.property-list.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold</string>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS properties</string>
+			<key>scope</key>
+			<string>source.css meta.property-list.css meta.property-name.css support.type.property-name.css,
+source.css meta.property-list.css meta.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FAFAFA</string>
+				<key>fontStyle</key>
+				<string> bold italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS tags</string>
+			<key>scope</key>
+			<string>source.css meta.selector.css entity.name.tag.css,
+source.css meta.property-list.css meta.property-value.css keyword.other.unit.css,
+source.css meta.property-list.css meta.property-value.css constant.numeric.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold</string>
+				<key>foreground</key>
+				<string>#2196F3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS rgb values</string>
+			<key>scope</key>
+			<string>source.css meta.property-list.css meta.property-value.css constant.other.color.rgb-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFEB3B</string>
+				<key>fontStyle</key>
+				<string> bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS greens</string>
+			<key>scope</key>
+			<string>source.css meta.property-list.css meta.property-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> bold </string>
+				<key>foreground</key>
+				<string>#FF9100</string>
 			</dict>
 		</dict>
 	</array>
