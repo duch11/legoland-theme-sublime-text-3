@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Themes/Lego-land.tmTheme",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme",
+	"show_tab_close_buttons": false,
+	"highlight_line": true,
+	"always_show_minimap_viewport": true,
+	"draw_minimap_border": true,
+	"draw_centered": true,
+}
